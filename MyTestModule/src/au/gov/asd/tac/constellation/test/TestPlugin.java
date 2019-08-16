@@ -29,7 +29,7 @@ import au.gov.asd.tac.constellation.pluginframework.templates.SimpleEditPlugin;
 import au.gov.asd.tac.constellation.graph.GraphWriteMethods;
 /**
  *
- * @author 61401
+ * @author imranraza83
  */
 @ServiceProviders({
     @ServiceProvider(service = Plugin.class)
