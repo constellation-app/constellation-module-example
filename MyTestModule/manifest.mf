@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.genius.testmodule
+OpenIDE-Module-Localizing-Bundle: org/genius/testmodule/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
